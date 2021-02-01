@@ -1,0 +1,34 @@
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Repositories.dll.config
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.Migrations.Init.resources
+D:\Visual\Tamwely\Address Book\Repositories\obj\Debug\Repositories.csproj.GenerateResource.cache
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Repositories.dll.config
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book Backend\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.Migrations.Init.resources
+D:\Visual\Tamwely\Address Book Backend\Repositories\obj\Debug\Repositories.csproj.GenerateResource.cache

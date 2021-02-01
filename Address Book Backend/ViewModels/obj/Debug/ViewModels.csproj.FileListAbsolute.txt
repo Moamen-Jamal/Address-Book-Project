@@ -1,0 +1,24 @@
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book\ViewModels\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+D:\Visual\Tamwely\Address Book\ViewModels\obj\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book\ViewModels\obj\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book Backend\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book Backend\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book Backend\ViewModels\obj\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book Backend\ViewModels\obj\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book Backend\ViewModels\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book Backend\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete

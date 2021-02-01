@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<i [mat-dialog-close] class="fa fa-arrow-circle-left"></i>
+
+<div class="container">
+    <br> <br> <br>
+<div class="row">
+    <div class="form-group row">
+        <br> <br> <br>
+        <div class="col-sm-4">
+            <label for="name" class="col-sm-2 col-form-label" style="text-align: center;"> Name</label>
+        </div>
+        <div class="col-sm-8">
+            <input type="name" class="form-control" id="inputPassword"
+             placeholder="Enter Job Name" [(ngModel)]="Name">
+        </div>
+        <br> <br> 
+    </div>
+</div>
+<div class="row">
+    <div class="form-group row">
+        <br> <br> <br>
+        <div class="col-sm-4">
+            <label for="department" class="col-sm-2 col-form-label" style="text-align: center;"> Department</label>
+        </div>
+        <div class="col-sm-8">
+            <select  class="form-control"  style="text-align: right;font-size: 18px; color:#2a3d08;;
+                height: 50px;margin-top: 10px;" (change)="getDepartmnetID($event.target.value)" name="adepartment" 
+                formControlName="department" [ngClass]="{'is-invalid':form.get('department').touched && form.get('department').invalid}" 
+                required >
+                  
+                  <option *ngFor="let Department of DepartmentList" [value]="Department.Name" >
+                    {{Department.Name}}
+                  </option>
+                </select>
+                <div class="invalid-feedback">
+                     <div style="color:red; font-size:18px">Enter the department</div>
+                </div>
+        </div>
+        <br> <br> 
+    </div>
+</div>
+<div class="row">
+    <button type="submit" class="addbtn" (click)="OnAdd()" [mat-dialog-close]>Add</button> 
+</div>
+</div>

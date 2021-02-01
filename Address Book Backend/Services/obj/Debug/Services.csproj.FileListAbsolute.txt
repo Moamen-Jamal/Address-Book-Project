@@ -1,0 +1,46 @@
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Services.dll
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Services.pdb
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\Repositories.dll.config
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book\Services\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Visual\Tamwely\Address Book\Services\obj\Debug\Services.dll
+D:\Visual\Tamwely\Address Book\Services\obj\Debug\Services.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Visual\Tamwely\Address Book Backend\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Visual\Tamwely\Address Book Backend\Services\obj\Debug\Services.dll
+D:\Visual\Tamwely\Address Book Backend\Services\obj\Debug\Services.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Services.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Services.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Entities.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Helpers.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Repositories.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\ViewModels.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\EntityFramework.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Entities.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Entities.dll.config
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Helpers.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Helpers.dll.config
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Repositories.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Repositories.dll.config
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\ViewModels.pdb
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\EntityFramework.xml
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Visual\Tamwely\Address Book Backend\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Visual\Tamwely\Address Book Backend\Services\bin\Debug\Services.dll.config

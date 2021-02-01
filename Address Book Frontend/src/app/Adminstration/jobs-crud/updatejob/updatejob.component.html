@@ -1,0 +1,58 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<i [mat-dialog-close] class=" fa fa-arrow-circle-left"></i>
+<form #f = "ngForm" (ngSubmit) = "OnUpdate()">
+<div class="container" *ngIf = "job">
+    <br> <br> <br>
+<div class="row">
+    <div class="form-group row">
+        <br> <br> <br>
+        <div class="col-sm-4">
+            <label for="name" class="col-sm-2 col-form-label" style="text-align: center;"> Name</label>
+        </div>
+        <div class="col-sm-8">
+            <input type="text" style="text-align:right;font-size: 18px;" placeholder="Enter the name" id="name"
+          [(ngModel)]="job.Name"   name="name" ngModel #name ="ngModel"   
+          required  minlength="4" maxlength="16" 
+          pattern = "^[\u0600-\u065F\u066A-\u06EF\u06FA-\u06FFa-zA-Z]+[\u0600-\u065F\u066A-\u06EF\u06FA-\u06FFa-zA-Z-_ ]*$">
+           <!-- validiton message -->
+          <div for="Name" style="color:red ; " 
+          *ngIf = "name.touched && name.invalid" >
+          <div for="Name" style="color:red ; " 
+          *ngIf = "name.errors.required">Enter the name</div>
+          <div for="Name" style="color:red ; " 
+          *ngIf = "name.errors.minlength"> min characters are {{name.errors.minlength.requiredLength}} </div>
+          <div for="Name" style="color:red ; " 
+          *ngIf = "name.errors?.pattern"> Enter characters only</div>
+        </div>
+
+        </div>
+        <br> <br> 
+    </div>
+</div>
+<div class="row">
+    <div class="form-group row">
+        <br> <br> <br>
+        <div class="col-sm-4">
+            <label for="name" class="col-sm-2 col-form-label" style="text-align: center;"> Department</label>
+        </div>
+        <div class="col-sm-8">
+            <select class="form-control" style="text-align: right;font-size: 18px;
+              height: 50px;margin-top: 5px;" (change)="getDepartmentID($event.target.value)" 
+              name="department"  >
+              
+            <option *ngFor="let Department of DepartmentList" [value]="Department.Name"
+            [selected]="DepartmentName == Department.Name">
+              {{Department.Name}}
+            </option>
+            
+          </select>
+
+        </div>
+        <br> <br> 
+    </div>
+</div>
+<div class="row">
+    <button type="submit" class="addbtn" [disabled]="f.invalid" [mat-dialog-close]>Update</button> 
+</div>
+</div>
+</form>
